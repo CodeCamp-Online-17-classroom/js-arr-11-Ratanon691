@@ -5,3 +5,4 @@
 ```JavaScript
 const person = ['John', 'Jay', 'Jim', 'Jame'];
 ```
+Rattanon Tunwittaya
